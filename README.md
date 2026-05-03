@@ -37,6 +37,6 @@ Built as part of **CW#8 - Gemini API Integration**
 * ✅ Share Daily Brief bottom sheet UI
 * ✅ Dark theme with modern UI design
 * ✅ **Gemini API integration with live Google Search grounding**
-* ✅ **News summary in Pakistani Korangi slang Roman Urdu**
+
 
 ---
