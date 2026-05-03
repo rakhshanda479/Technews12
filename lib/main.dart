@@ -6,7 +6,9 @@ import 'data/datasources/news_remote_data_source.dart';
 import 'data/repositories/news_repository.dart';
 import 'presentation/screens/news_screen.dart';
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
   final repository = NewsRepository(remoteDataSource: NewsRemoteDataSource());
 
   runApp(NewsApp(repository: repository));
