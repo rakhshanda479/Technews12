@@ -21,7 +21,7 @@ Built as part of **CW#8 - Gemini API Integration**
 ## 📱 Screenshots
 
 ### News Feed — Gemini Powered (Roman Urdu)
-<img width="366" height="427" alt="tech" src="https://github.com/user-attachments/assets/866f674a-21a8-4854-8aa1-2a6cd6a3426b" />
+<img width="744" height="846" alt="image" src="https://github.com/user-attachments/assets/9d44ae2d-9b39-4a79-98ca-97b2b4e5c19b" />
 
 ### Share Daily Brief
 <img width="365" height="420" alt="tech daily" src="https://github.com/user-attachments/assets/e3106cfc-ef5d-41f4-9d39-0c75c7be7307" />
