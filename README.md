@@ -1,4 +1,4 @@
-#  Briefly — AI-Powered Tech News App
+# AI-Powered Tech News App
 
 A Flutter application that displays AI-curated tech news summaries from the last 24 hours, 
 powered by **Gemini API** with live Google Search grounding.
@@ -39,9 +39,3 @@ Built as part of **CW#8 - Gemini API Integration**
 * ✅ **News summary in Pakistani Korangi slang Roman Urdu**
 
 ---
-
-
-
-
-
-## 🏗️ Architecture
